@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NashornTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-22T15:05:27" hostname="ip-192-168-8-106.eu-north-1.compute.internal" time="2.224">
+  <properties/>
+  <testcase name="test()" classname="NashornTest" time="2.224"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
